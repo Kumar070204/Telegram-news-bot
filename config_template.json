@@ -1,0 +1,13 @@
+{
+  "phone_number": "your_phone_number",
+  "telegram_token": "your_telegram_token",
+  "newsapi_key": "your_newsapi_key",
+  "news_urls": ["https://www.bbc.com/news", "https://www.cnn.com"],
+  "interests": ["AI", "cybersecurity", "technology"],
+  "preferred_language": "en",
+  "voice_accent": "en-US-Neural2-J",
+  "summary_length": "short",
+  "notification_times": ["01:45", "08:00"],
+  "location": "Chennai",
+  "gemini_api_key": "your_gemini_api_key"
+}

@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+newsapi-python
+textblob
+deep-translator
+google-cloud-texttospeech
+python-telegram-bot
+flask
+schedule
+pytz
+aiohttp
+google-generativeai

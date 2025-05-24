@@ -1,0 +1,16 @@
+{
+  "phone_number": "+917200189144",
+  "telegram_token": "7669395037:AAF7Wx4Gtaw4Iv2bbJvwmkeMche5BA5QYA4",
+  "newsapi_key": "b275db7c2558490a9895dcf3f9290a26",
+  "news_urls": [
+    "https://www.bbc.com/news",
+    "https://www.cnn.com"
+  ],
+  "interests": ["AI", "cybersecurity", "technology"],
+  "preferred_language": "en",
+  "voice_accent": "en-US-Neural2-J",
+  "summary_length": "short",
+  "notification_times": ["01:23", "08:00"],
+  "location": "Chennai",
+  "gemini_api_key": "AIzaSyDbZLsAbxYdPi0rpzh0QtQLEg3sacvNA4A"
+}
