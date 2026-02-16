@@ -1,7 +1,7 @@
 # 📰 Telegram News Bot
 
 <p align="center">
-  <img src="Telegram.jpg" alt="Telegram News Bot" width="600"/>
+  <img src="Telegram.png" alt="Telegram News Bot" width="600"/>
 </p>
 
 
