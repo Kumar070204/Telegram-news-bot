@@ -1,5 +1,10 @@
 # 📰 Telegram News Bot
 
+<p align="center">
+  <img src="Telegram.jpg" alt="Telegram News Bot" width="600"/>
+</p>
+
+
 An automated news scraping and messaging bot built using Python that fetches the latest news from the web and delivers updates directly to messaging platforms like Telegram or WhatsApp.
 
 This project demonstrates real-world skills in web scraping, automation, API integration, and notification systems.
