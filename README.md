@@ -19,12 +19,15 @@ This project demonstrates real-world skills in web scraping, automation, API int
 
 ## 🛠 Tech Stack
 
-- Python
-- Web Scraping (BeautifulSoup / Requests)
-- Automation
-- JSON Configuration
-- Messaging Automation
-- APIs
+| Category              | Technology                          |
+|-----------------------|--------------------------------------|
+| 🐍 Language          | Python                               |
+| 🌐 Web Scraping     | BeautifulSoup, Requests              |
+| ⚙️ Automation       | Python Automation Scripts            |
+| 📁 Configuration    | JSON                                 |
+| 💬 Messaging        | Telegram / WhatsApp Automation       |
+| 🔌 APIs             | REST APIs                            |
+
 
 ---
 
